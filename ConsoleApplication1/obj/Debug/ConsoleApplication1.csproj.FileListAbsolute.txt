@@ -7,3 +7,12 @@ D:\School\Font\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplicat
 D:\School\Font\ConsoleApplication1\ConsoleApplication1\bin\Debug\SharpFont.dll.config
 D:\School\Font\ConsoleApplication1\ConsoleApplication1\bin\Debug\freetype6.dll
 D:\School\Font\ConsoleApplication1\ConsoleApplication1\bin\Debug\SharpFont.dll
+C:\Users\alperen\Documents\GitHub\TurkceFontAyraci\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\alperen\Documents\GitHub\TurkceFontAyraci\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\alperen\Documents\GitHub\TurkceFontAyraci\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\alperen\Documents\GitHub\TurkceFontAyraci\ConsoleApplication1\bin\Debug\SharpFont.dll.config
+C:\Users\alperen\Documents\GitHub\TurkceFontAyraci\ConsoleApplication1\bin\Debug\freetype6.dll
+C:\Users\alperen\Documents\GitHub\TurkceFontAyraci\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\alperen\Documents\GitHub\TurkceFontAyraci\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\alperen\Documents\GitHub\TurkceFontAyraci\ConsoleApplication1\bin\Debug\SharpFont.dll
+C:\Users\alperen\Documents\GitHub\TurkceFontAyraci\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

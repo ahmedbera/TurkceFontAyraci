@@ -1,0 +1,9 @@
+D:\School\Font\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\School\Font\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\School\Font\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\School\Font\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\School\Font\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\School\Font\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\School\Font\ConsoleApplication1\ConsoleApplication1\bin\Debug\SharpFont.dll.config
+D:\School\Font\ConsoleApplication1\ConsoleApplication1\bin\Debug\freetype6.dll
+D:\School\Font\ConsoleApplication1\ConsoleApplication1\bin\Debug\SharpFont.dll
